@@ -1,0 +1,1 @@
+print('THIS IS SAMPLE PY FOR GIT TEST')
